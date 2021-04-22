@@ -9,7 +9,7 @@ public class Continue_Statement {
 			// if value of i is between 4 and 9
 			// continue is executed
 			if (i > 4 && i < 9) {
-				continue;
+			
 			}
 
 			System.out.println(i);

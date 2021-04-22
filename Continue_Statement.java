@@ -11,8 +11,8 @@ public class Continue_Statement {
 			if (i > 4 && i < 9) {
 				continue;
 			}
-			System.out.println(i);
-		}
-	}
 
+			System.out.println(i);
+	      }
+	}
 }
